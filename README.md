@@ -40,7 +40,8 @@ To make our sales predictions we tried Both linear Regression and Decision tree 
 To make sure we could get the best results from our models of course we spent some good time in data cleaning and data understanding
 
 #### Maximum Retail Price to Outlet Sales
-![sample image](MRP to Outlet Sale.png)
+![MRP to Outlet Sale](https://github.com/RissanX/food-sales-predicitons/assets/128228990/3abbc83e-1a3b-4f7b-a26b-e347fc55002a)
+
 
 
 
