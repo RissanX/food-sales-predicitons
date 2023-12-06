@@ -40,7 +40,7 @@ To make our sales predictions we tried Both linear Regression and Decision tree 
 To make sure we could get the best results from our models of course we spent some good time in data cleaning and data understanding
 
 #### Maximum Retail Price to Outlet Sales
-![sample image](MRP to Outlet Sale.png)
+![sample image] (MRP to Outlet Sale.png)
 
 
 
