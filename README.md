@@ -35,5 +35,12 @@ Outlet_Type: Whether the outlet is a grocery store or some sort of supermarket
 
 Item_Outlet_Sales: Sales of the product in the particular store. This is the target variable to be predicted.
 
+## Methods:
+To make our sales predictions we tried Both linear Regression and Decision tree regressor and after comparing and evaluating we can easily conclude that the linear regression is the better one
+To make sure we could get the best results from our models of course we spent some good time in data cleaning and data understanding
+
+#### Maximum Retail Price to Outlet Sales
+![sample image](MRP to Outlet Sale.png)
+
 
 
